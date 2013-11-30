@@ -30,5 +30,5 @@ Flip stuff up with Reactive.js
             
             
             
-            // See demo at : reactivejs-demo.gweb.io
+            // See demo at: reactivejs-demo.gweb.io
   
