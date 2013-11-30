@@ -27,4 +27,8 @@ Flip stuff up with Reactive.js
             window.setTimeout(third, 2500);
        
             //Set timeout for function to perform multiple animations.
+            
+            
+            
+            // See demo at : reactivejs-demo.gweb.io
   
