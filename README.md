@@ -1,4 +1,4 @@
-<div style="text-align:center;"><img src="https://github.com/coderkit/Reactive.js/blob/master/reactive.png" style="width:64px;height:64px"></div>
+<div style="text-align:center;"><img src="https://github.com/coderkit/Reactive.js/blob/master/reactive.png" style="width:128px;height:128px"></div>
 
 *Reactive js is a library used to do flip animation with the value inside HTML elements* 
 
