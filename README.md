@@ -1,4 +1,6 @@
-Flip stuff up with Reactive.js 
+<div style="text-align:center;"><img src="https://github.com/coderkit/Reactive.js/blob/master/reactive.png" style="width:64px;height:64px"></div>
+
+*Reactive js is a library used to do flip animation with the value inside HTML elements* 
 
   Features:
   
@@ -6,7 +8,7 @@ Flip stuff up with Reactive.js
     - Flip up and down, right and left and reverse
   Usage:
   
-                          reactive.flipway(element name, animation time, word to change);
+      General usage   = reactive.flipway(element name, animation time, word to change);
       flipway         = flipUpPx, flipDownPx, flipLeftPx, flipRightPx, flipVerticalUp, flipVerticalDown, flipHorizontalUp, flipHorizontalDown
       element name    = name of the element you want to flip
       animation time  = configure the time that the animation will take place
